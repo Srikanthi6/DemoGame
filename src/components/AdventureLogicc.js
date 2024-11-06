@@ -501,11 +501,19 @@ const AdventureLogic = () => {
             audioPreferences={audioPreferences}
             setAudioPreferences={setAudioPreferences}
           />
-          {gameState.over ? (
+           {gameState.over ? (
             <div className="game-over">
-              <h1>Game Over</h1>
-              <p>Final Score: {gameState.score}</p>
-              <button onClick={resetGame}>Restart</button>
+              <div className="game-over-content">
+                <h1>Game Over</h1>
+                <p>Final Score: {gameState.score}</p>
+                <p>Creatures in Safe Zone: {gameState.creaturesInSafeZone}</p>
+                <button 
+                  className="restart-button"
+                  onClick={resetGame}
+                >
+                  Play Again
+                </button>
+              </div>
             </div>
           ) : (
             <>

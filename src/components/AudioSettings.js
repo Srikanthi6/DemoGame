@@ -6,7 +6,7 @@ const AudioSettings = ({ audioPreferences, setAudioPreferences }) => {
     <div className="audio-settings">
       <h3>Audio Settings</h3>
       <div className="setting">
-        <label>Hero Voice</label>
+      <label style={{ color: '#FFFFFF' }}>Hero Voice</label>
         <Switch
           checked={audioPreferences.heroVoice}
           onChange={() =>
@@ -18,7 +18,7 @@ const AudioSettings = ({ audioPreferences, setAudioPreferences }) => {
         />
       </div>
       <div className="setting">
-        <label>Creature Voice</label>
+      <label style={{ color: '#FFFFFF' }}>Hero Voice</label>
         <Switch
           checked={audioPreferences.creatureVoice}
           onChange={() =>
@@ -30,7 +30,7 @@ const AudioSettings = ({ audioPreferences, setAudioPreferences }) => {
         />
       </div>
       <div className="setting">
-        <label>Narrator Voice</label>
+      <label style={{ color: '#FFFFFF' }}>Hero Voice</label>
         <Switch
           checked={audioPreferences.narratorVoice}
           onChange={() =>
