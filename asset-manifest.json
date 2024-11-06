@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Demo/static/css/main.0b3ebd13.css",
-    "main.js": "/Demo/static/js/main.e17a1c26.js",
-    "static/js/453.60523827.chunk.js": "/Demo/static/js/453.60523827.chunk.js",
-    "static/media/adventure-game.jpg": "/Demo/static/media/adventure-game.24284156e7d265636d31.jpg",
-    "static/media/flappy-bird.jpg": "/Demo/static/media/flappy-bird.d6b0b07b69cdf5e14be8.jpg",
-    "index.html": "/Demo/index.html",
-    "main.0b3ebd13.css.map": "/Demo/static/css/main.0b3ebd13.css.map",
-    "main.e17a1c26.js.map": "/Demo/static/js/main.e17a1c26.js.map",
-    "453.60523827.chunk.js.map": "/Demo/static/js/453.60523827.chunk.js.map"
+    "main.css": "/DemoGame/static/css/main.0b3ebd13.css",
+    "main.js": "/DemoGame/static/js/main.398257ad.js",
+    "static/js/453.60523827.chunk.js": "/DemoGame/static/js/453.60523827.chunk.js",
+    "static/media/adventure-game.jpg": "/DemoGame/static/media/adventure-game.24284156e7d265636d31.jpg",
+    "static/media/flappy-bird.jpg": "/DemoGame/static/media/flappy-bird.d6b0b07b69cdf5e14be8.jpg",
+    "index.html": "/DemoGame/index.html",
+    "main.0b3ebd13.css.map": "/DemoGame/static/css/main.0b3ebd13.css.map",
+    "main.398257ad.js.map": "/DemoGame/static/js/main.398257ad.js.map",
+    "453.60523827.chunk.js.map": "/DemoGame/static/js/453.60523827.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b3ebd13.css",
-    "static/js/main.e17a1c26.js"
+    "static/js/main.398257ad.js"
   ]
 }
